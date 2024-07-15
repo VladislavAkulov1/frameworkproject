@@ -39,19 +39,6 @@ Użycie Axios do wykonywania asynchronicznych żądań HTTP i obsługi odpowiedz
 ### Interakcja z bazą danych
 Użycie Mongoose do uproszczenia pracy z MongoDB i implementacji schematów danych.
 
-## Dokumentacja
-
-### Instalacja i uruchomienie projektu
-Podręcznik instalacji i uruchomienia projektu.
-
-### Opis architektury projektu i używanych technologii
-Opis struktury projektu i używanych technologii.
-
-### Przykłady kodu i wyjaśnienia
-Przykłady kodu z wyjaśnieniami dotyczącymi używania różnych narzędzi.
-
-### Opis rozwiązywania problemów
-Opis problemów, z którymi zmagał się deweloper, oraz sposoby ich rozwiązania za pomocą narzędzi frameworka.
 
 # Rozpoczęcie pracy z Create React App
 
